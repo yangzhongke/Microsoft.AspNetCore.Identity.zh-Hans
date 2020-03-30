@@ -1,8 +1,14 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>Microsoft.AspNetCore.Identity.zh_Hans</RootNamespace>
+    <Authors>Zack Yang</Authors>
+    <Description>Chinese version of IdentityError of asp.net core identity. 此程序包包含 ASP.NET Core Identity 的简体中文附属程序集。Localised Microsoft.AspNetCore.Identity in Chinese</Description>
+    <PackageProjectUrl>https://github.com/yangzhongke/Microsoft.AspNetCore.Identity.zh-Hans</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/yangzhongke/Microsoft.AspNetCore.Identity.zh-Hans</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>ZackYang.Microsoft.AspNetCore.Identity.zh-Hans</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
